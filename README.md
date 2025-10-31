@@ -8,7 +8,7 @@ Currently, I'm focusing on improving my JavaScript skills and preparing to explo
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript (ES6+)
 - **Libraries & Frameworks:** React, Tailwind CSS  
-- **Tools:** Git, Vite, Firebase  
+- **Tools:** Git, Vite
 - **Other Skills:** HTML5, CSS3, Responsive Design
 
 ## 🌱 What I'm Looking For
