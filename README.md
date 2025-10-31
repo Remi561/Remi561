@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Remy
 
-<!--
-**Remi561/Remi561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm an aspiring **Full Stack Developer** with a strong foundation in **Front-End Development**.  
+I enjoy building modern, interactive, and user-friendly web applications using **React**.  
+Currently, I'm focusing on improving my JavaScript skills and preparing to explore **backend development**.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** JavaScript (ES6+)
+- **Libraries & Frameworks:** React, Tailwind CSS  
+- **Tools:** Git, Vite, Firebase  
+- **Other Skills:** HTML5, CSS3, Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Looking For
+- 🤝 **Mentorship:** Learning from experienced developers to sharpen my craft.  
+- 👨‍💻 **Collaboration:** Open to working on side projects, pair programming, or contributing to open source.  
+- 🚀 **Growth:** Always learning, building, and experimenting with new technologies.
+
+## ⚽ Beyond Coding
+When I’m not coding, I’m probably playing sports 🏃‍♂️ — I believe in staying active and creative.
+
+## 📫 Let's Connect
+🐦 [Follow me on X (Twitter)](https://x.com/Remy_Stack)
+
+---
+
+✨ *“Code. Learn. Improve. Repeat.”*
