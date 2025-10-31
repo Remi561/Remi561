@@ -17,7 +17,7 @@ Currently, I'm focusing on improving my JavaScript skills and preparing to explo
 - 🚀 **Growth:** Always learning, building, and experimenting with new technologies.
 
 ## ⚽ Beyond Coding
-When I’m not coding, I’m probably playing sports 🏃‍♂️ — I believe in staying active and creative.
+When I’m not coding, I’m probably playing sports 🏃‍♂️ , I believe in staying active and creative.
 
 ## 📫 Let's Connect
 🐦 [Follow me on X (Twitter)](https://x.com/Remy_Stack)
