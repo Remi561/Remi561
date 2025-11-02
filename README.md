@@ -6,10 +6,9 @@ I enjoy building modern, interactive, and user-friendly web applications using *
 Currently, I'm focusing on improving my JavaScript skills and preparing to explore **backend development**.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript (ES6+)
+- **Languages:** JavaScript 
 - **Libraries & Frameworks:** React, Tailwind CSS  
-- **Tools:** Git, Vite
-- **Other Skills:** HTML5, CSS3, Responsive Design
+- **Other Skills:** HTML, CSS, Responsive Design
 
 ## 🌱 What I'm Looking For
 - 🤝 **Mentorship:** Learning from experienced developers to sharpen my craft.  
